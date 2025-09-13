@@ -35,19 +35,19 @@
 ☕ Java · 🐘 PHP (Laravel, Livewire) · 🐍 Python · Kotlin · JavaScript  
 
 **Backend & Frameworks:**  
-Spring Boot · Spring Data JPA · Laravel · Livewire · Node.js (básico)  
+Spring Boot · Spring Data JPA · Laravel · Livewire · Node.js · Angular   
 
 **Frontend & UI:**  
 TailwindCSS · Thymeleaf · JSP · Jetpack Compose · JavaFX · Swing  
 
 **Bases de datos:**  
-MySQL · SQLite · PostgreSQL (aprendiendo)  
+MySQL 
 
 **IA & Ciencia de Datos:**  
-Scikit-learn · XGBoost · Random Forest · Pandas · NumPy  
+Pandas · NumPy  
 
 **DevOps & Herramientas:**  
-Git · Docker · Linux · Maven · OOP · POO avanzada  
+Git · Maven · POO
 
 </div>
 
